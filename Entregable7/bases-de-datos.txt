@@ -1,1 +1,4 @@
-Acá va la primera base de datos: <url>
+Acá van las bases de datos:
+1) https://www.kaggle.com/datasets/brsdincer/star-type-classification
+2) https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification
+3) https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
